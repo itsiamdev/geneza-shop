@@ -6,6 +6,10 @@ Landing page for Geneza, a local store in Târgu Neamț, Romania.
 
 The page presents the store's identity, product categories, weekly offers, brand story, and a newsletter subscription area.
 
+## Live Demo
+
+[View the live website](https://itsiamdev.github.io/geneza-shop/)
+
 ## Technologies
 
 - Semantic HTML5
