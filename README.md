@@ -49,6 +49,8 @@ The page uses Google Fonts, so an internet connection is required to load the fo
 
 This project is a front-end prototype. The newsletter form is not connected to an external service, and some footer links are still placeholders that need to be replaced with their real destinations.
 
+> **Disclaimer:** This is an unofficial clone created for fun and practice. It is not affiliated with or endorsed by the Geneza store.
+
 ## Planned Improvements
 
 - Connect the form to a newsletter service;
