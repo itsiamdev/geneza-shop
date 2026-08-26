@@ -23,8 +23,13 @@ The page presents the store's identity, product categories, weekly offers, brand
 .
 ├── index.html   # Page structure and mobile menu interaction
 ├── style.css    # Styles, layout, and responsive design
-└── README.md    # Project documentation
+├── README.md    # Project documentation
+└── LICENSE      # MIT License
 ```
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Local Setup
 
